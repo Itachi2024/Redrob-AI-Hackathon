@@ -1,6 +1,7 @@
 # Redrob AI Hackathon: Candidate Discovery and Ranking
 
 **AI-Powered Recruitment Pipeline** for finding and ranking Senior AI Engineers from a dataset of 100,000 candidates.
+## Google Collab Link:- Google Colab Link:- https://colab.research.google.com/drive/1h0Ja2VSNX3TCPB5FyfEyiGnaQhGrSGXL?usp=sharing
 
 ## 📋 Project Overview
 
